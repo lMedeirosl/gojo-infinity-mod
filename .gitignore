@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Minecraft
+run/
+logs/
+
+# Sistema
+*.log
+.DS_Store
