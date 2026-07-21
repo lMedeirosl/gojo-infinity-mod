@@ -47,7 +47,7 @@ Main concepts explored:
 - Client key bindings
 
 ## Showcase
-![Gojo Infinity demonstration](caminho aq)
+![Gojo Infinity demonstration](infinity.png)
 
 ## License
 All rights reserved.
